@@ -2,6 +2,7 @@
 
 
 ## Assignment 2-2 (Gesture recognition - rock, scissors,and paper)
+![gesture_recog_demo](./demo/demo.gif)
 
 ### Installation
 ~~~
@@ -13,6 +14,7 @@ pip install keyboard, torch, mediapipe, opencv-python
 python dataCollection.py
 ~~~
 Press 'a' to save the coordinates of landmarks in data.csv file
+![data_collection](./demo/data_collecting.gif)
 
 ### Data Processing
 Run 'data processing.ipynb' file to generate train and validation data
