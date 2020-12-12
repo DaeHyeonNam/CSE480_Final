@@ -5,5 +5,5 @@
 
 ### Installation
 ~~~
-pip install keyboard, torch, mediapipe
+pip install keyboard, torch, mediapipe, opencv-python
 ~~~
