@@ -2,7 +2,7 @@
 
 
 ## Assignment 2-2 (Gesture recognition - rock, scissors,and paper)
-![gesture_recog_demo](./assignment2-2/demo/demo.gif)
+![gesture_recog_demo](./assignment2-2/demo/demo.gif = 250x)
 
 ### Installation
 ~~~
